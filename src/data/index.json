@@ -1,0 +1,22 @@
+{
+    "skills": [
+        {
+          "id": "1",
+          "src": "./img/product-chain-1.png",
+          "title": "Programing Skills",
+          "description": "python, javascript, java, mysql, html, css, react"
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Certifications",
+            "description": "Aviatrix Certified Engineer, Microsoft Certified-Azure Fundamentals (AZ 900), Microsoft Certified-Azure AI Fundamentals,Microsoft Certified-Azure DevOps Engineer ( AZ 400)"
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-1.png",
+            "title": "Publications",
+            "description": "An Entrenching Recommender System for Sustainable Transportation Applications ofArtificial Intelligence, Digital Twin and Internet of Things for Sustainable Development, IGI Global –Scopus (Accepted)"
+        }
+    ]
+}
